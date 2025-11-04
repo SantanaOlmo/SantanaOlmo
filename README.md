@@ -1,4 +1,4 @@
-![Alberto Estepa Gómez](img/gifreadmeAlberto.gif)
+![Alberto Estepa Gómez](img/me_header.png)
 
 Hi!  
 I’m Alberto, a 25-year-old full stack web developer with a strong focus on design and user experience.
