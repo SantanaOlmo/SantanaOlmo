@@ -48,19 +48,3 @@ By merging an artistic mindset with analytical problem-solving, I strive to craf
 ### 🚀 Status
 **Currently looking for new challenges in UX / Web Development.** *Available for international opportunities (English C1 Certified).*
 
----
-
----
----
-
-### 📊 My GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantanaOlmo&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="170px" />
-</p>
-
-### 💻 Languages & Frameworks
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanaOlmo&layout=compact&theme=tokyonight&hide_langs=html,css&card_width=400" alt="Top Langs" height="170px" />
-</p>
