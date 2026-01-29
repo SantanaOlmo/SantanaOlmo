@@ -51,11 +51,16 @@ By merging an artistic mindset with analytical problem-solving, I strive to craf
 ---
 
 ---
+---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantanaOlmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Alberto's GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanaOlmo&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Most Used Languages" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantanaOlmo&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="170px" />
 </p>
 
+### 💻 Languages & Frameworks
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanaOlmo&layout=compact&theme=tokyonight&hide_langs=html,css&card_width=400" alt="Top Langs" height="170px" />
+</p>
