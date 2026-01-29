@@ -45,15 +45,17 @@ By merging an artistic mindset with analytical problem-solving, I strive to craf
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantanaOlmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Alberto's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanaOlmo&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Most Used Languages" />
-</p>
+### 🚀 Status
+**Currently looking for new challenges in UX / Web Development.** *Available for international opportunities (English C1 Certified).*
 
 ---
 
-### 🚀 Status
-**Currently looking for new challenges in UX / Web Development.** *Available for international opportunities (English C1 Certified).*
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantanaOlmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Alberto's GitHub Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanaOlmo&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Most Used Languages" height="170px" />
+</p>
 
