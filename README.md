@@ -1,50 +1,53 @@
 ![Alberto Estepa Gómez](img/me_header.png)
 
-Hi!  
-I’m Alberto, a 25-year-old full stack web developer with a strong focus on design and user experience.
 
-I trained as both a developer and an artist at the University of Seville, where I earned a degree in Fine Arts. This background gave me a solid foundation in visual composition, color theory, and creative thinking, which I now combine with technical expertise to build thoughtful digital products.
+Hi!
 
-My work bridges the gap between design and development. I aim to create interfaces that are not only visually coherent but also intuitive, accessible, and efficient. I enjoy translating ideas into interactive experiences that feel natural and engaging.
+I’m Alberto, a 25-year-old Software Engineer based in Seville, Spain. I bridge the gap between technical architecture and intuitive design, combining my background in Fine Arts with a rigorous approach to full-stack development.
 
-By merging an artistic mindset with analytical problem-solving, I strive to craft solutions that balance aesthetics, usability, and performance — turning complexity into simplicity through design and code.
+I don’t just write code; I design scalable systems and guide the development process to ensure quality, maintainability, and performance. Whether building cloud-native web applications or complex desktop software, I focus on clean architecture and delivering robust, user-centered solutions.
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-**Front-end & Design:**
-<p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+* **Frontend:** React, Next.js, Tailwind CSS, TypeScript, JavaScript.
+* **Backend:** Node.js, TypeScript, Express.js, Python, Java, PHP, Laravel.
+* **Databases:** PostgreSQL, MySQL, SQLite.
+* **Cloud & DevOps:** Docker, Git, Vercel, Cloudflare, CI/CD pipelines.
+* **Tools:** OAuth 2.0, Stripe API, Figma, Agile/Scrum.
 
-**Back-end & Databases:**
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+---
+
+### 🚀 Professional Experience
+
+* **Full Stack Developer @ ENNDE 3D** (2026 – Present)
+* Developing production-ready web platforms using Next.js and TypeScript.
+* Building secure REST APIs with OAuth integration and Stripe services.
+
+
+* **Software Engineer @ ENNDE 3D** (May 2026 – July 2026)
+* Developed cross-platform desktop applications (Python/PySide6) with offline-first synchronization and hardware-bound security.
+
+
+* **Software Engineer Intern @ ENNDE 3D** (May 2025 – July 2025)
+* Designed modular frontend/backend architectures and optimized data persistence workflows.
+
+
+
+---
+
+### 💻 Key Projects
+
+* **[MiKiwi](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fjoangriful%2FMiKiwi):** E-commerce platform with a real-time 3D configurator. Stack: Laravel, React, Three.js, PostgreSQL.
+* **[Rechord](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSantanaOlmo%2FRechord):** Collaborative music streaming platform using WebSockets and the Web Audio API.
+* **[Hydrosphere](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSantanaOlmo%2FHydrosphere):** Technical desktop app for pipe inspection with secure encrypted storage.
 
 ---
 
 ### 📬 Let's Connect!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/alberto-e-2946b6138/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:alberto16166@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+* **LinkedIn:** [Alberto Estepa Gómez](https://www.google.com/search?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falberto-e-2946b6138%2F)
+* **Email:** [alberto16166@gmail.com](https://www.google.com/search?q=mailto%3Aalberto16166%40gmail.com)
 
 ---
 
-### 🚀 Status
-**Currently looking for new challenges in UX / Web Development.** *Available for international opportunities (English C1 Certified).*
-
+*English C1 Certified (Cambridge Advanced) | Available for international opportunities.*
